@@ -81,22 +81,22 @@ h2 {
 }
 
 h3 {
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 400;
   margin-top: 15px;
   margin-bottom: 0;
 }
 
 h4 {
-  font-size: 14px;
+  font-size: 10px;
   font-weight: 400;
   margin: 5px 0;
-  letter-spacing: 1px;
+  letter-spacing: 1.5px;
 }
 
 .Line {
   height: 1px;
-  background-color: var(--Neutral);
+  background-color: lightgray;
   margin: 0;
 }
 
@@ -110,6 +110,7 @@ h4 {
 
 .Statistics h1 {
   margin-top: 0;
+  font-size: 17px;
 }
 
 @media only screen and (max-width: 376px) {
